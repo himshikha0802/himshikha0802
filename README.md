@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himshikha!😊</h1>
 <h3 align="center">A Quality Assurance enthusiast😊👈</h3>
 
-<p align="left"> <a href="https://twitter.com/himso123" target="blank"><img src="https://img.shields.io/twitter/follow/himso123?logo=twitter&style=for-the-badge" alt="himso123" /></a> </p>
-
+###About me:
 - 👩‍🎓 I’m currently studying at [Kist college,kamalpokhari](https://kist.edu.np/)
 
 - 🌱 I’m currently learning **Manual testing and Automation testing**
