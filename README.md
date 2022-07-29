@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Himshikha!😊</h1>
 <h3 align="center">A Quality Assurance enthusiast😊👈</h3>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/search/programming-gifs">
 
-<h1>About me</h1>
-- 👩‍🎓 I’m currently studying at [Kist college,kamalpokhari](https://kist.edu.np/)
+<h1>About me:</h1>
+-👩‍🎓 I’m currently studying at [Kist college,kamalpokhari](https://kist.edu.np/)
 
-- 🌱 I’m currently learning **Manual testing and Automation testing**
+-🌱 I’m currently learning **Manual testing and Automation testing**
 
-- 💬 Ask me about anything **I will answer honestly**
+-💬 Ask me about anything **I will answer honestly**
 
-- 📫 How to reach me **shikhabhandari730@gmail.com**
+-📫 How to reach me **shikhabhandari730@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
