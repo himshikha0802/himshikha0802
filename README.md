@@ -8,7 +8,7 @@
 
   <li>🌱 I’m currently learning<b> Manual testing and Automation testing</b></li>
 
-  <li>💬 Ask me about anything I will answer honestly</li>
+  <li>💬 Ask me about anything <b>I will answer honestly</b></li>
 
   <li>📫 How to reach me <b>shikhabhandari730@gmail.com</b></li>
   </ul>
