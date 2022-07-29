@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <h1>About me:</h1>
--👩‍🎓 I’m currently studying at [Kist college,kamalpokhari](https://kist.edu.np/)
+-👩‍🎓 I’m currently studying at Kist college,kamalpokhari
 
 -🌱 I’m currently learning **Manual testing and Automation testing**
 
