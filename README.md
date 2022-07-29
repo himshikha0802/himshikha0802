@@ -3,13 +3,15 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <h1>About me:</h1>
--👩‍🎓 I’m currently studying at Kist college,kamalpokhari
+<ul>
+  <li>👩‍🎓 I’m currently studying at **Kist college,kamalpokhari**</li>
 
--🌱 I’m currently learning **Manual testing and Automation testing**
+  <li>🌱 I’m currently learning **Manual testing and Automation testing**</li>
 
--💬 Ask me about anything **I will answer honestly**
+  <li>💬 Ask me about anything **I will answer honestly**</li>
 
--📫 How to reach me **shikhabhandari730@gmail.com**
+  <li>📫 How to reach me **shikhabhandari730@gmail.com**</li>
+  </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
