@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himshikha!😊</h1>
 <h3 align="center">A Quality Assurance enthusiast😊👈</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himshikha0802" alt="himshikha0802" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/himso123" target="blank"><img src="https://img.shields.io/twitter/follow/himso123?logo=twitter&style=for-the-badge" alt="himso123" /></a> </p>
 
 - 👩‍🎓 I’m currently studying at [Kist college,kamalpokhari](https://kist.edu.np/)
@@ -30,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himshikha0802&show_icons=true&locale=en" alt="himshikha0802" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himshikha0802&" alt="himshikha0802" /></p>
-
-
