@@ -4,13 +4,13 @@
 
 <h2>About me:</h2>
 <ul>
-  <li>👩‍🎓 I’m currently studying at **Kist college,kamalpokhari**</li>
+  <li>👩‍🎓 I’m currently studying at <b>Kist college,kamalpokhari</b></li>
 
-  <li>🌱 I’m currently learning **Manual testing and Automation testing**</li>
+  <li>🌱 I’m currently learning<b> Manual testing and Automation testing</b></li>
 
-  <li>💬 Ask me about anything **I will answer honestly**</li>
+  <li>💬 Ask me about anything I will answer honestly</li>
 
-  <li>📫 How to reach me **shikhabhandari730@gmail.com**</li>
+  <li>📫 How to reach me <b>shikhabhandari730@gmail.com</b></li>
   </ul>
 
 <h3 align="left">Connect with me:</h3>
