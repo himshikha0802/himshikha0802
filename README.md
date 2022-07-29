@@ -4,7 +4,7 @@
 
 <h3>About me:</h3>
 <ul>
-  <li>👩‍🎓 I’m currently studying at <b>Kist college,kamalpokhari</b></li>
+  <li>👩‍🎓 I’m currently studying<b> Bachelour in information technology(BIT)</b> at <b>Kist college,kamalpokhari</b></li>
 
   <li>🌱 I’m currently learning<b> Manual testing and Automation testing</b></li>
 
