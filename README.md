@@ -2,7 +2,7 @@
 <h3 align="center">A Quality Assurance enthusiast😊👈</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-<h2>About me:</h2>
+<h3>About me:</h3>
 <ul>
   <li>👩‍🎓 I’m currently studying at <b>Kist college,kamalpokhari</b></li>
 
