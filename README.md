@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himshikha!😊</h1>
 <h3 align="center">A Quality Assurance enthusiast😊👈</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated++girl+coding+gif&tbm=isch&ved=2ahUKEwi0z4uphZ75AhXGj9gFHbB1CwQQ2-cCegQIABAA&oq=animated++girl+coding+gif&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEB4QCFC1CljbFGD0GGgAcAB4AIABuQGIAccHkgEDMC42mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=y8rjYvS9C8af4t4PsOutIA&bih=754&biw=1519&hl=en-GB#imgrc=lahMOKRfUGYsqM">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <h1>About me:</h1>
 -👩‍🎓 I’m currently studying at [Kist college,kamalpokhari](https://kist.edu.np/)
