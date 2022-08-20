@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/himshikha-bhandari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himshikha-bhandari/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shikha.bhandari.104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shikha.bhandari.104/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bhandarishikha00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bhandarishikha00/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucitxh_x0vpv3-0sywsuyv_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucitxh_x0vpv3-0sywsuyv_w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCitxH_X0VPV3-0syWsuyv_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucitxh_x0vpv3-0sywsuyv_w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
